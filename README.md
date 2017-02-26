@@ -17,7 +17,7 @@ We consider the problem of distributing a large group of heterogeneous robots am
 
 # Usage
 
-The program should be self explanatory. Use ```run.py``` as the starting point.
+The program should be self-explanatory. Use ```run.py``` as a starting point.
 
 ```bash
 python run.py
